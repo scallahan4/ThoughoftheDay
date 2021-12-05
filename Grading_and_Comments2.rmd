@@ -1,0 +1,28 @@
+---
+title: "Grading and comments"
+author: "[Aaron/Scott/Minsu]"
+date:
+output: html_document
+---
+
+
+# Grading Guidelines from Assignment with Scores and Comments from [Aaron/Scott/Minsu]
+
+- 10 points for developing the basic functions and adding them to a package
+	- x/5 pts for functions equivalent to `simu_cum_incidence` and `simulate_trajs` in [solutions](https://github.com/advanced-R-2021/HW2_solutions) defined and working as intended
+	- x/5 pts for those functions are added to the R folder of a project repo
+	- [any comments]
+
+- 10 points for uploading a package to your HW2 repository and having a history of at least 2 commits
+	- x/5 points: have a history of at least 2 commits in some branch in the repo
+	- x/3 points: have a branch which is a valid R package folder
+	- x/2 points: have all final versions of submitted work (any functions, documentation, demo code etc.) in project banch
+	- [any comments]
+
+- 10 points for adding documentation and successfully calling the function simulate_trajs and explaining the output
+	- x/5 points: Roxygen code and Rd outputs for at least `simulate_trajs` (or equivalent function))
+	- x/5 points: call this function and display the output either in a table/list or plot
+	- [any comments]
+
+- explaining the output
+	- x/5 points extra credit for some discussion of output
